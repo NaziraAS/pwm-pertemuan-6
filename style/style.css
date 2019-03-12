@@ -1,0 +1,26 @@
+.jumbotron{
+	margin-top: 25px;
+}
+img{
+	width: 200px;
+}
+h2{
+	padding-top: 10px;
+}
+.row hr{
+	width: 250px;
+	border-top: 2px solid gray;
+}
+.about{
+	min-height: 350px;
+}
+.portfolio{
+	background-color: #eee;
+	min-height: 350px;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+.contact{
+	min-height: 800px;
+	padding-top: 10px;
+}
